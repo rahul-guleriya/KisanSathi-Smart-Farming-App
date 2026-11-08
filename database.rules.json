@@ -1,0 +1,26 @@
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".read": "auth != null && auth.uid === $uid",
+        ".write": "auth != null && auth.uid === $uid",
+        "favorites": {
+          ".read": "auth != null && auth.uid === $uid",
+          ".write": "auth != null && auth.uid === $uid"
+        }
+      }
+    },
+    "products": {
+      ".read": true,
+      ".write": "auth != null"
+    },
+    "mandiPrices": {
+      ".read": true,
+      ".write": "auth != null"
+    },
+    "cropGuide": {
+      ".read": true,
+      ".write": "auth != null"
+    }
+  }
+}

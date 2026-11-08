@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">किसान साथी</string>
+    <string name="app_tagline">स्मार्ट खेती का साथी</string>
+
+    <!-- Language -->
+    <string name="language">भाषा</string>
+    <string name="language_english">अंग्रेज़ी</string>
+    <string name="language_hindi">हिन्दी</string>
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="language_select_title">ऐप की भाषा</string>
+
+    <!-- Authentication -->
+    <string name="title_login">किसान लॉगिन</string>
+    <string name="title_register">किसान साथी खाता बनाएँ</string>
+    <string name="label_full_name">पूरा नाम</string>
+    <string name="label_email">ईमेल पता</string>
+    <string name="label_password">पासवर्ड</string>
+    <string name="label_confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="btn_login">लॉगिन</string>
+    <string name="btn_register">रजिस्टर करें</string>
+    <string name="prompt_register">खाता नहीं है? यहाँ रजिस्टर करें</string>
+    <string name="prompt_login">पहले से खाता है? यहाँ लॉगिन करें</string>
+    <string name="login_success">लॉगिन सफल रहा!</string>
+    <string name="register_success">खाता सफलतापूर्वक पंजीकृत हो गया!</string>
+
+    <!-- Dashboard -->
+    <string name="title_dashboard">किसान साथी डैशबोर्ड</string>
+    <string name="welcome_farmer">स्वागत है, %1$s!</string>
+    <string name="farmer">किसान</string>
+    <string name="nav_categories">उत्पाद श्रेणियाँ</string>
+    <string name="nav_mandi">मंडी भाव</string>
+    <string name="nav_crop_guide">फसल मार्गदर्शिका</string>
+    <string name="nav_favorites">मेरे पसंदीदा उत्पाद</string>
+    <string name="nav_profile">मेरी प्रोफ़ाइल</string>
+    <string name="btn_logout">लॉगआउट</string>
+    <string name="logout_success">सफलतापूर्वक लॉगआउट हो गए</string>
+    <string name="farming_services">कृषि सेवाएँ</string>
+    <string name="subtitle_categories">बीज, खाद और फसल सुरक्षा</string>
+    <string name="subtitle_mandi">दैनिक बाज़ार दरें</string>
+    <string name="subtitle_crop_guide">खेती की सलाह और जानकारी</string>
+    <string name="subtitle_favorites">सेव किए गए उत्पाद</string>
+    <string name="subtitle_profile">खाता और सेटिंग्स</string>
+
+    <!-- Products -->
+    <string name="category_seeds">बीज</string>
+    <string name="category_fertilizers">खाद और उर्वरक</string>
+    <string name="category_protection">फसल सुरक्षा उत्पाद</string>
+    <string name="all_categories">सभी श्रेणियाँ</string>
+    <string name="price_comparison">कीमतों की तुलना</string>
+    <string name="search_products">उत्पाद खोजें</string>
+    <string name="add_favorite">पसंदीदा में जोड़ें</string>
+    <string name="remove_favorite">पसंदीदा से हटाएँ</string>
+    <string name="added_to_favorites">पसंदीदा में जोड़ा गया</string>
+    <string name="removed_from_favorites">पसंदीदा से हटाया गया</string>
+    <string name="favorite_btn_add">पसंदीदा में जोड़ें</string>
+    <string name="favorite_btn_remove">पसंदीदा से हटाएँ</string>
+    <string name="no_products">कोई उत्पाद नहीं मिला</string>
+    <string name="compare_rates">कीमतों की तुलना करें</string>
+    <string name="usage_instructions">उपयोग के निर्देश</string>
+    <string name="safety_guidelines">सुरक्षा और रखरखाव निर्देश</string>
+    <string name="pack_size">पैक का वजन</string>
+    <string name="total_price">कुल कीमत</string>
+    <string name="calculated_unit_rate">प्रति किलो / लीटर कीमत</string>
+    <string name="last_updated">अंतिम अपडेट: %1$s</string>
+
+    <!-- Category Activity Strings -->
+    <string name="category_subtitle_main">बीज की किस्मों, खाद और प्रमाणित फसल सुरक्षा उत्पादों को देखें।</string>
+    <string name="category_seeds_desc">गेहूं, धान, सरसों और सब्जियों के बीज</string>
+    <string name="category_fertilizers_desc">यूरिया, डीएपी, एनपीके और जैविक खाद</string>
+    <string name="category_protection_desc">प्रमाणित कीटनाशक, फफूंदनाशक और सुरक्षा नियम</string>
+    <string name="compare_unit_prices">इकाई मूल्य तुलना</string>
+    <string name="compare_unit_prices_desc">विभिन्न पैकों में ₹/किग्रा या ₹/लीटर की तुलना करें</string>
+
+    <!-- Product List & Comparison Strings -->
+    <string name="search_product_hint">उत्पाद या कंपनी का नाम खोजें...</string>
+    <string name="category_label">श्रेणी: </string>
+    <string name="no_products_matching">इस फ़िल्टर के अनुसार कोई उत्पाद नहीं मिला।</string>
+    <string name="price_comparison_title">उत्पाद मूल्य तुलना</string>
+    <string name="price_comparison_subtitle">विभिन्न उत्पादों और पैकों में इकाई दरों (₹/किग्रा या ₹/लीटर) की तुलना करें।</string>
+    <string name="price_comparison_notice">सूचना: इकाई दरें तुलनात्मक मार्गदर्शन प्रदान करती हैं। विभिन्न किस्मों या ग्रेडों के उत्पादों की सीधी तुलना नहीं की जा सकती।</string>
+    <string name="compare_category_label">श्रेणी तुलना: </string>
+    <string name="no_comparison_records">चुनी गई श्रेणी के लिए कोई तुलना रिकॉर्ड उपलब्ध नहीं है।</string>
+
+    <!-- Mandi -->
+    <string name="mandi_title">मंडी भाव (दैनिक बाज़ार दरें)</string>
+    <string name="mandi_header_title">मंडी भाव (दैनिक बाज़ार दरें)</string>
+    <string name="mandi_header_subtitle">भारत भर की मंडियों से कृषि बाज़ार मूल्य अपडेट</string>
+    <string name="search_mandi">फसल, मंडी या राज्य खोजें</string>
+    <string name="search_mandi_hint">फसल, मंडी या राज्य का नाम खोजें...</string>
+    <string name="filter_state">राज्य के अनुसार फ़िल्टर</string>
+    <string name="all_states">सभी राज्य</string>
+    <string name="no_mandi_records">मंडी भाव का कोई रिकॉर्ड नहीं मिला</string>
+    <string name="no_mandi_records_sub">इस चयन के लिए मंडी भाव का कोई रिकॉर्ड नहीं मिला।</string>
+    <string name="sample_data_badge">उदाहरण डेटा</string>
+    <string name="min_price">न्यूनतम दर</string>
+    <string name="modal_price">औसत दर</string>
+    <string name="max_price">अधिकतम दर</string>
+
+    <!-- Crop Guide -->
+    <string name="crop_guide_title">फसल मार्गदर्शिका</string>
+    <string name="crop_guide_header_subtitle">खेती की सिफारिशें, मिट्टी की देखभाल, सिंचाई और कटाई के चरण</string>
+    <string name="search_crop">फसल खोजें</string>
+    <string name="search_crop_hint">फसल का नाम या मिट्टी का प्रकार खोजें...</string>
+    <string name="filter_season">मौसम के अनुसार फ़िल्टर</string>
+    <string name="all_seasons">सभी मौसम</string>
+    <string name="season_rabi">रबी मौसम</string>
+    <string name="season_kharif">खरीफ मौसम</string>
+    <string name="season_zaid">ज़ायद मौसम</string>
+    <string name="crop_name_label">फसल का नाम</string>
+    <string name="season_label">मौसम</string>
+    <string name="soil_label">मिट्टी</string>
+    <string name="sowing_label">बुवाई</string>
+    <string name="irrigation_label">सिंचाई</string>
+    <string name="fertilizer_guidance_label">खाद संबंधी जानकारी</string>
+    <string name="harvesting_label">कटाई</string>
+    <string name="no_crop_guides">कोई फसल मार्गदर्शिका नहीं मिली</string>
+
+    <!-- Favorites & Profile -->
+    <string name="favorites_title">मेरे पसंदीदा उत्पाद</string>
+    <string name="favorites_header_title">सेव किए गए पसंदीदा</string>
+    <string name="favorites_header_subtitle">आपके द्वारा सेव किए गए कृषि उत्पाद और त्वरित संदर्भ</string>
+    <string name="favorites_empty_sub">उत्पाद सूची देखें और यहाँ सेव करने के लिए \'पसंदीदा में जोड़ें\' पर टैप करें।</string>
+    <string name="no_favorites">अभी कोई पसंदीदा उत्पाद सेव नहीं है</string>
+    <string name="login_required_fav">पसंदीदा सेव करने के लिए कृपया लॉगिन करें।</string>
+    <string name="profile_title">मेरी प्रोफ़ाइल</string>
+    <string name="account_information">खाते की जानकारी</string>
+    <string name="logout_confirmation">क्या आप लॉगआउट करना चाहते हैं?</string>
+    <string name="btn_logout_account">खाते से लॉगआउट करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="confirm">पुष्टि करें</string>
+
+    <!-- Common -->
+    <string name="sample_data_notice">शैक्षणिक उद्देश्य के लिए दिखाया गया उदाहरण डेटा।</string>
+    <string name="unit_price_format">प्रति इकाई कीमत: ₹%1$.2f / %2$s</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="error_generic">कुछ गड़बड़ हुई। कृपया फिर से कोशिश करें।</string>
+    <string name="save">सेव करें</string>
+    <string name="back">वापस</string>
+    <string name="kvk_recommendation_note">अपने क्षेत्र के लिए स्थानीय कृषि विभाग या कृषि विज्ञान केंद्र (KVK) की सिफारिशों का पालन करें।</string>
+    <string name="source_format">स्रोत: %1$s</string>
+    <string name="date_format">दिनांक: %1$s</string>
+</resources>

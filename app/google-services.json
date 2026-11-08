@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "98708135758",
+    "firebase_url": "https://kisansathi-2b96a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kisansathi-2b96a",
+    "storage_bucket": "kisansathi-2b96a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98708135758:android:36c43e3e5b1717361a081f",
+        "android_client_info": {
+          "package_name": "com.company.kisansathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmlkF6Mx7kCWPrVgxgVvXv7x84isZn4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98708135758:android:56fe4a145a9bdf001a081f",
+        "android_client_info": {
+          "package_name": "com.example.kisansathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPmlkF6Mx7kCWPrVgxgVvXv7x84isZn4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

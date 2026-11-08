@@ -57,3 +57,39 @@ B.Tech CSE Student
 ## 📌 Project Status
 
 Android application project developed using Java, XML and Firebase.
+---
+
+## 📱 App Screenshots
+
+### 1. Login & Registration
+![Login and Registration](screenshots/image1.png)
+
+### 2. Home Dashboard
+![Home Dashboard](screenshots/image2.jpg)
+
+### 3. Product Categories
+![Product Categories](screenshots/image3.jpg)
+
+### 4. Product List
+![Product List](screenshots/image4.jpg)
+
+### 5. Product Details
+![Product Details](screenshots/image5.jpg)
+
+### 6. Price Comparison
+![Price Comparison](screenshots/image6.jpg)
+
+### 7. Mandi Prices
+![Mandi Prices](screenshots/image7.jpg)
+
+### 8. Crop Guide
+![Crop Guide](screenshots/image8.jpg)
+
+### 9. Favorites
+![Favorites](screenshots/image9.png)
+
+### 10. Profile
+![Profile](screenshots/image10.jpg)
+
+### 11. Additional Screen
+![Additional Screen](screenshots/image11.jpg)
